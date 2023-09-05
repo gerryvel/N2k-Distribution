@@ -1,6 +1,6 @@
 # N2k-Distribution
 
-Distribution with termination an 12V supply input
+Distribution with termination and 12V supply input
 
 # Partlist:
 
