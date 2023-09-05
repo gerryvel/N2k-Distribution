@@ -1,6 +1,6 @@
 # N2k-Distribution
 
-Distribution with termination and 12V supply input
+Compact N2k Distribution for 4 sensors with termination and 12V supply input
 
 # Partlist:
 
