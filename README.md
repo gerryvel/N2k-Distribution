@@ -1,7 +1,13 @@
 # N2k-Distribution
 
 Distribution with termination an 12V supply input
-Order by Aisler: ![link](https://aisler.net/astec-gmbh/n2k/tmpnbhgjto0)
+
+# Partlist:
+
+- Wago [Link](https://www.reichelt.de/index.html?ACTION=446&LA=446&nbc=1&q=wago%20236-405)
+- M12 5polig Kupplung [Link](https://www.reichelt.de/einbausteckverbinder-m12-5-pol-kupplung-lut-1221-t9cp05-p223035.html?CCOUNTRY=445&LANGUAGE=de&nbc=1&&r=1)
+  
+PCB by Aisler: ![link](https://www.aisler.de/astec-gmbh/n2k/tmpnbhgjto0)
 
 ![grafik](https://github.com/gerryvel/N2k-Distribution/assets/17195231/d91618b4-8090-4968-949f-54d8359c2f19)
 
