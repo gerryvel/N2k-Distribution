@@ -1,6 +1,6 @@
 # N2k-Distribution
 
-Compact N2k Distribution for 4 sensors with termination and 12V supply input
+Compact N2k Distribution for 4 sensors with termination (Jumper on/off) and 12V / 5V supply input (Jumper 12V / 5V / off).
 
 # Partlist:
 
@@ -10,9 +10,11 @@ Compact N2k Distribution for 4 sensors with termination and 12V supply input
 
 # PCB Layout
 
-![grafik](https://github.com/gerryvel/N2k-Distribution/assets/17195231/d91618b4-8090-4968-949f-54d8359c2f19)
+![grafik](https://github.com/gerryvel/N2k-Distribution/assets/17195231/e54b3a1a-365f-4922-93a0-b0c7abb9698e)
 
 # Circuit diagram
 
-![grafik](https://github.com/gerryvel/N2k-Distribution/assets/17195231/2ca998d7-94f0-4c44-a827-042b4bbdf539)
+![grafik](https://github.com/gerryvel/N2k-Distribution/assets/17195231/5e9e223b-c9d0-48d4-81ce-1a1e45919a42)
 
+
+Update V1.1 add supply 5V with Jumper 
