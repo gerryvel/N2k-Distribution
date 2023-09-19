@@ -1,6 +1,6 @@
 # N2k-Distribution
 
-Compact N2k Distribution for 4 sensors with termination (Jumper on/off) and 12V / 5V supply input (Jumper 12V / 5V / off).
+Compact N2k Distribution for 4 devices with termination (Jumper on/off), 12V supply for bus and 12V / 5V supply input (Jumper 12V / 5V / off) for the 4 devices.
 
 # Partlist:
 
