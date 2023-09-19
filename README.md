@@ -16,5 +16,5 @@ Compact N2k Distribution for 4 devices with termination (Jumper on/off), 12V sup
 
 ![grafik](https://github.com/gerryvel/N2k-Distribution/assets/17195231/5e9e223b-c9d0-48d4-81ce-1a1e45919a42)
 
-
+Initial V1.0
 Update V1.1 add supply 5V with Jumper 
