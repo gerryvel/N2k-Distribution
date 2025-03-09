@@ -36,7 +36,7 @@ PCB by Aisler [link](https://aisler.net/p/IOIVSRCU), use Revision 6
 
 ![grafik](https://github.com/user-attachments/assets/0a4066ab-3789-4f8e-8d8b-028ee07a8dfc)
 
-- Update V1.2 add with Solder-Jumper and use length 122mm for Phoenix Case UM-Basic 122 with left/rith covermoduls
+- Update V1.2 add Solder-Jumper and use length 122mm for Phoenix Case UM-Basic (30mm) 122 with left/rith covermoduls
 - Update V1.1 add supply 5V with Jumper 
 - Initial V1.0
 
