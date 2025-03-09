@@ -1,5 +1,10 @@
 # N2k-Distribution
 
+![KiCad](https://img.shields.io/badge/KiCad-darkblue?logo=KiCad)
+![Relaise](https://img.shields.io/github/release-date/gerryvel/Bootsdaten?)
+![lastcommit](https://img.shields.io/github/last-commit/gerryvel/Bootsdaten)
+[![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)](https://open-boat-projects.org/de/)
+
 Compact N2k Distribution for 4 devices with termination (Jumper on/off), 12V supply for bus and 12V / 5V supply input (Jumper 12V / 5V / off) for the 4 devices.
 
 # Partlist:
