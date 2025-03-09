@@ -19,9 +19,14 @@ Version 2
 
 ![grafik](https://github.com/gerryvel/N2k-Distribution/assets/17195231/e54b3a1a-365f-4922-93a0-b0c7abb9698e)
 
+PCB by Aisler [link](https://aisler.net/p/IOIVSRCU), use Revision 5
+
 ## PCB Layout Version 2
 
 ![grafik](https://github.com/user-attachments/assets/60dc68cf-cd0b-46c4-b21d-51d8a53a10bd)
+
+
+PCB by Aisler [link](https://aisler.net/p/IOIVSRCU), use Revision 6
 
 ## Circuit diagram Version 1
 
@@ -33,6 +38,6 @@ Version 2
 
 - Update V1.2 add with Solder-Jumper and use length 122mm for Phoenix Case UM-Basic 122 with left/rith covermoduls
 - Update V1.1 add supply 5V with Jumper 
-Initial V1.0
+- Initial V1.0
 
 
