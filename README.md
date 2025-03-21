@@ -24,6 +24,7 @@ PCB by Aisler [link](https://aisler.net/p/IOIVSRCU), use Revision 5
 ## PCB Layout Version 2
 
 ![grafik](https://github.com/user-attachments/assets/60dc68cf-cd0b-46c4-b21d-51d8a53a10bd)
+![image](https://github.com/user-attachments/assets/6e906093-7306-4381-af5e-5710210f44fe)
 
 
 PCB by Aisler [link](https://aisler.net/p/IOIVSRCU), use Revision 6
