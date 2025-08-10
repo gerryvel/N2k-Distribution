@@ -15,13 +15,13 @@ Compact N2k Distribution for 4 devices with termination (Jumper on/off), 12V sup
 Version 2
 - Phoenix UM-Basic 2200149 (30mm) [link](https://www.phoenixcontact.com/de-de/produkte/aufbaugehaeuseunterteil-um-basic-profile-2200149)
 
-## PCB Layout Version 1
+## PCB Layout Version 1.1
 
 ![grafik](https://github.com/gerryvel/N2k-Distribution/assets/17195231/e54b3a1a-365f-4922-93a0-b0c7abb9698e)
 
 PCB by Aisler [link](https://aisler.net/p/IOIVSRCU), use Revision 5
 
-## PCB Layout Version 2
+## PCB Layout Version 2.0
 
 ![grafik](https://github.com/user-attachments/assets/60dc68cf-cd0b-46c4-b21d-51d8a53a10bd)
 ![image](https://github.com/user-attachments/assets/6e906093-7306-4381-af5e-5710210f44fe)
@@ -29,15 +29,15 @@ PCB by Aisler [link](https://aisler.net/p/IOIVSRCU), use Revision 5
 
 PCB by Aisler [link](https://aisler.net/p/IOIVSRCU), use Revision 6
 
-## Circuit diagram Version 1
+## Circuit diagram Version 1.1
 
 ![grafik](https://github.com/gerryvel/N2k-Distribution/assets/17195231/5e9e223b-c9d0-48d4-81ce-1a1e45919a42)
 
-## Circuit diagram Version 2
+## Circuit diagram Version 2.0
 
 ![grafik](https://github.com/user-attachments/assets/0a4066ab-3789-4f8e-8d8b-028ee07a8dfc)
 
-- Update V1.2 add Solder-Jumper and use length 122mm for Phoenix Case UM-Basic (20mm) with left/rith covermoduls
+- Update V2.0 add Solder-Jumper and use length 122mm for Phoenix Case UM-Basic (20mm) with left/rith covermoduls
 - Update V1.1 add supply 5V with Jumper 
 - Initial V1.0
 
