@@ -5,7 +5,7 @@
 ![lastcommit](https://img.shields.io/github/last-commit/gerryvel/Bootsdaten)
 [![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)](https://open-boat-projects.org/de/)
 
-Compact N2k Distribution for 4 devices with termination (Jumper on/off), 12V supply for bus and 12V / 5V supply input (Jumper 12V / 5V / off) for the 4 devices.
+Compact N2k Distribution for 5 devices with termination (Jumper on/off), 12V supply for bus and 12V / 5V supply input (Jumper 12V / 5V / off) for the 1 devices.
 
 ## Partlist:
 
@@ -15,28 +15,19 @@ Compact N2k Distribution for 4 devices with termination (Jumper on/off), 12V sup
 Version 2
 - Phoenix UM-Basic 2200149 (30mm) [link](https://www.phoenixcontact.com/de-de/produkte/aufbaugehaeuseunterteil-um-basic-profile-2200149)
 
-## PCB Layout Version 1.1
+PCB by Aisler [link](https://aisler.net/p/IAOTMKWL)
 
-![grafik](https://github.com/gerryvel/N2k-Distribution/assets/17195231/e54b3a1a-365f-4922-93a0-b0c7abb9698e)
+## PCB Layout Version 2.1
 
-PCB by Aisler [link](https://aisler.net/p/IOIVSRCU), use Revision 5
-
-## PCB Layout Version 2.0
-
-![grafik](https://github.com/user-attachments/assets/60dc68cf-cd0b-46c4-b21d-51d8a53a10bd)
-![image](https://github.com/user-attachments/assets/6e906093-7306-4381-af5e-5710210f44fe)
-
+<img width="1160" height="773" alt="grafik" src="https://github.com/user-attachments/assets/363d5512-46c8-4621-8e9f-937ef844cf34" />
 
 PCB by Aisler [link](https://aisler.net/p/IOIVSRCU), use Revision 6
 
-## Circuit diagram Version 1.1
+## Circuit diagram
 
-![grafik](https://github.com/gerryvel/N2k-Distribution/assets/17195231/5e9e223b-c9d0-48d4-81ce-1a1e45919a42)
+<img width="3508" height="2480" alt="grafik" src="https://github.com/user-attachments/assets/ffa3f20b-3c00-40fc-aa48-aa39ddd7f334" />
 
-## Circuit diagram Version 2.0
-
-![grafik](https://github.com/user-attachments/assets/0a4066ab-3789-4f8e-8d8b-028ee07a8dfc)
-
+- Update V2.1 add 1 M12 Connector
 - Update V2.0 add Solder-Jumper and use length 122mm for Phoenix Case UM-Basic (20mm) with left/rith covermoduls
 - Update V1.1 add supply 5V with Jumper 
 - Initial V1.0
