@@ -6,6 +6,7 @@
 [![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)](https://open-boat-projects.org/de/)
 
 Compact N2k Distribution for 5 devices with termination (Jumper on/off), 12V supply for bus and 12V / 5V supply input (Jumper 12V / 5V / off) for the 1 devices.
+In addition, there is surge protection for 12V and CAN bus.
 
 ## Partlist:
 
