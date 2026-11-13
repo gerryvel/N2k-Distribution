@@ -12,7 +12,9 @@ Compact N2k Distribution for 5 devices with termination (Jumper on/off), 12V sup
 - Wago [Link](https://www.reichelt.de/index.html?ACTION=446&LA=446&nbc=1&q=wago%20236-405)
 - M12 5polig Kupplung [Link](https://www.reichelt.de/einbausteckverbinder-m12-5-pol-kupplung-lut-1221-t9cp05-p223035.html?CCOUNTRY=445&LANGUAGE=de&nbc=1&&r=1)
 - PCB by Aisler [link](https://aisler.net/p/IAOTMKWL)
-- Phoenix UM-Basic 2200149 (30mm) [link](https://www.phoenixcontact.com/de-de/produkte/aufbaugehaeuseunterteil-um-basic-profile-2200149)
+- Phoenix UM 122 -PROFIL (30mm) [link](https://www.phoenixcontact.com/de-de/produkte/komplettgehaeuse-um-profil-2952020)
+- UM122-SEFE/R [link](https://www.phoenixcontact.com/de-de/produkte/aufbaugehaeuse-seitenteil-um122-sefer-2908786)
+- UM122-SEFE/L [link](https://www.phoenixcontact.com/de-de/produkte/aufbaugehaeuse-seitenteil-um122-sefel-2908773)
 
 ## PCB Layout Version 2.1
 
