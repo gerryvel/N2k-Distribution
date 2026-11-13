@@ -14,10 +14,12 @@ Compact N2k Distribution for 5 devices with termination (Jumper on/off), 12V sup
 - PCB by Aisler: [link](https://aisler.net/p/IOIVSRCU)
 Version 2
 - Phoenix UM-Basic 2200149 (30mm) [link](https://www.phoenixcontact.com/de-de/produkte/aufbaugehaeuseunterteil-um-basic-profile-2200149)
+<img width="3087" height="1872" alt="image" src="https://github.com/user-attachments/assets/c298754a-955a-4fb1-9b63-ef57b2f3135b" />
 
 ## PCB Layout Version 2.1
 
 <img width="1160" height="773" alt="grafik" src="https://github.com/user-attachments/assets/363d5512-46c8-4621-8e9f-937ef844cf34" />
+
 
 
 PCB by Aisler [link](https://aisler.net/p/IAOTMKWL)
